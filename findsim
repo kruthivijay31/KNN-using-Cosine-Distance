@@ -1,0 +1,2 @@
+#!/bin/bash
+python findsim.py -eps "$2" -k "$4" -infile "$5" -outfile "$6"
